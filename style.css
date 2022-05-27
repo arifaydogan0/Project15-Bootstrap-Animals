@@ -1,0 +1,38 @@
+body{
+    background-color: #E9ECEF ;
+}
+.menu{
+    background-color: gray;
+    width: auto;
+    height: 40px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.menuLinks{
+    color: aliceblue;
+    font-size: 1.5em;
+}
+nav>div>.col{
+    text-align: center;
+}
+main>div>.col{
+    background-color:rgba(255, 244, 224, 0.959);
+    border-radius: 15px;
+    margin:5px;
+    padding: 25px;
+}
+main>div>div>div>img{
+width: 300px;
+height: 360px;
+}
+main>div>div>*{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+main>div>div>h2+p{
+    font-family:cursive;
+}
+main>div>div>p{
+    font-style: italic;
+}

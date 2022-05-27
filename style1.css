@@ -1,0 +1,18 @@
+.ortala {
+    text-align: center;
+    color: cadetblue;
+    font-size: 3em;
+}
+
+.paragraf {
+    font-size: 1.3em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.images {
+    list-style-position: inside;
+}
+
+body {
+    background-color: #E9ECEF ;
+}
